@@ -1,4 +1,10 @@
-## Sahil Naik's first CS193 Lab
+## Sahil's first CS193 Lab
+
+Things I like about the CS193 Lab:
+
+- The timing suits me because i can get homework done before coming here.
+- It's in Lawson.
+- I like the instructors.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
